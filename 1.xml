@@ -1,0 +1,53 @@
+<RestClientRequest>
+  <option name="biscuits">
+    <list>
+      <Biscuit>
+        <option name="date" value="1541659640000" />
+        <option name="domain" value="192.168.1.200" />
+        <option name="name" value="laravel_session" />
+        <option name="path" value="/" />
+        <option name="value" value="eyJpdiI6IlFabUx1Y1FNaGdkNDltRUN1b1wvVXF3PT0iLCJ2YWx1ZSI6Im93OUhITzFRVytndWlcL0xpaTRDeDlDSDFnMjlRajkwdjJyRCt3VlJkbjhpYThaZjEydGtKUlZYWGVTMzdLUG9QUWJjZThpS1Q5TURvTTZmaFF3anJBdz09IiwibWFjIjoiODgyYjg4MGQxOTk1YWMzMzlhZGQ0NGU0OWY1NzEzNTdjZTAxNWYxOWNiNWNhMWJiNzIwYWVlYjM1ZmM2ODFhNCJ9" />
+      </Biscuit>
+      <Biscuit>
+        <option name="date" value="1541659640000" />
+        <option name="domain" value="192.168.1.200" />
+        <option name="name" value="XSRF-TOKEN" />
+        <option name="path" value="/" />
+        <option name="value" value="eyJpdiI6IjU0WUVmZitHS29lSUlLTWNvSUxoUGc9PSIsInZhbHVlIjoiakhIbjFPNWxreWZ4Ym8xazQ3K0d1cUdhZ0IxNVo0c0lhYllMVjcyWDY3NWdUemZWblQxUkFOcFdjaFdoV0Y4dklCb05SWGpFWU5iWmtwOHlQRFZYVUE9PSIsIm1hYyI6ImM3Njk4ZTlhNGQwZGIxNjJlOTNiYTk3NjAzNTkzMzlkNjNkYTg2OTNkZGUyM2Y2YTgxNTE2ZmVkODNjYmJiNjYifQ%3D%3D" />
+      </Biscuit>
+    </list>
+  </option>
+  <option name="httpMethod" value="GET" />
+  <option name="urlBase" value="http://192.168.1.200" />
+  <option name="urlPath" value="/laravel-check/public//users/registered/1/+981245692322,+989112547896,+989304982233" />
+  <option name="headers">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="Accept" />
+        <option name="value" value="*/*" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="Cache-Control" />
+        <option name="value" value="no-cache" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parameters">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="creator" />
+        <option name="value" value="1" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="title" />
+        <option name="value" value="test" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parametersEnabled" value="true" />
+  <option name="haveTextToSend" value="false" />
+  <option name="haveFileToSend" value="false" />
+  <option name="isFileUpload" value="false" />
+  <option name="textToSend" value="" />
+  <option name="filesToSend" value="" />
+</RestClientRequest>

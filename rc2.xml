@@ -1,0 +1,65 @@
+<RestClientRequest>
+  <option name="biscuits">
+    <list>
+      <Biscuit>
+        <option name="date" value="1541745344000" />
+        <option name="domain" value="192.168.1.200" />
+        <option name="name" value="laravel_session" />
+        <option name="path" value="/" />
+        <option name="value" value="eyJpdiI6ImpKY0tDRkhZOUg3aTU3NVhJYWlLR1E9PSIsInZhbHVlIjoiSVFGSWp0b1huMklPbjNnbTZjWXpDb3BTRGFOXC9zaXQ4Rjljd2V5NXBYQ21tMDNPV01EMGd4Mm4weGo1dkJsVVFsU21yVDdaWENnOXlsVEhEZ1I3QkNRPT0iLCJtYWMiOiIxOWU4ZjE5YzdkMzliNDI1M2VmZWE2NDNhNzhiMmQzYWQ1NDRiM2ZmN2YwZjNjYzBkMTY5YWRkMTViYzVlNTc5In0%3D" />
+      </Biscuit>
+      <Biscuit>
+        <option name="date" value="1541745344000" />
+        <option name="domain" value="192.168.1.200" />
+        <option name="name" value="XSRF-TOKEN" />
+        <option name="path" value="/" />
+        <option name="value" value="eyJpdiI6IkdHQ2p0OHV5eVwvNGZLSHdKQTRCVGZRPT0iLCJ2YWx1ZSI6IlZVR1c3Z0xFQU1lYVk5eWdiVXVwbndzazVQVktRSllyTDNvXC9sb0JURFQ1bEJEWkt1ZFdBOWE0ekYrNjN3OU9SeDd2OW9HeVpiVTQ4bE9nWXpmSHJrdz09IiwibWFjIjoiNTE5Y2EwYzE5ZTI0YjY4NzZmY2MxMjZiNGI5N2U0YTViMWMwNWQ3N2M4NzgwMTE1YmJiOWM1MDM3ZTg5NWVjZSJ9" />
+      </Biscuit>
+    </list>
+  </option>
+  <option name="httpMethod" value="GET" />
+  <option name="urlBase" value="http://192.168.1.200" />
+  <option name="urlPath" value="/laravel-check/public/users/registered/1/+989112547896,+981245692322,+961442525252,+989304982248,+145236521412" />
+  <option name="headers">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="Accept" />
+        <option name="value" value="*/*" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="Cache-Control" />
+        <option name="value" value="no-cache" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parameters">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="name" />
+        <option name="value" value="kami" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="email" />
+        <option name="value" value="kami@test.com" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="username" />
+        <option name="value" value="kami111" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="phone" />
+        <option name="value" value="+989365982333" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="password" />
+        <option name="value" value="1234" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parametersEnabled" value="true" />
+  <option name="haveTextToSend" value="false" />
+  <option name="haveFileToSend" value="false" />
+  <option name="isFileUpload" value="false" />
+  <option name="textToSend" value="" />
+  <option name="filesToSend" value="" />
+</RestClientRequest>
